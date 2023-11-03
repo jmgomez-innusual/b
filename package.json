@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "amiga-9": "file:../amiga-9"
+    "amiga-9": "github:jmgomez-innusual/amiga-9"
   }
 }
